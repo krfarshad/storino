@@ -29,3 +29,6 @@ a {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.full-height{
+  min-height: 100vh;
+}
